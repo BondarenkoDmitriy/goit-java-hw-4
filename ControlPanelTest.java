@@ -7,14 +7,14 @@ class ControlPanelTest {
 class Altimeter{
   @Override
     public String toString(){
-        return Measure height;
+        return "Measure height";
     }
 }
 
 class AirGauge{
   @Override
     public String toString(){
-        return Measure air pressure;
+        return "Measure air pressure";
     }
 }
 
